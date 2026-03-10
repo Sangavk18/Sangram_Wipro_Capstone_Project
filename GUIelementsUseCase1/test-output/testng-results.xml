@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T10:48:35 IST" name="AutomationSuite" finished-at="2026-03-10T10:48:49 IST" duration-ms="13489">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T10:48:35 IST" name="GUIelementsTest" finished-at="2026-03-10T10:48:49 IST" duration-ms="13489">
+      <class name="tests.GUIelementsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.GUIelementsTest@2ce86164]" started-at="2026-03-10T10:48:35 IST" name="setup" finished-at="2026-03-10T10:48:40 IST" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testGUIElements()[pri:0, instance:tests.GUIelementsTest@2ce86164]" started-at="2026-03-10T10:48:40 IST" name="testGUIElements" finished-at="2026-03-10T10:48:48 IST" duration-ms="7840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGUIElements -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.GUIelementsTest@2ce86164]" started-at="2026-03-10T10:48:48 IST" name="teardown" finished-at="2026-03-10T10:48:49 IST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.GUIelementsTest -->
+    </test> <!-- GUIelementsTest -->
+  </suite> <!-- AutomationSuite -->
+</testng-results>
